@@ -120,7 +120,7 @@ img {
     text-decoration: none;
 }
 
-.site-header h1 {
+.site-header a h1 {
     color: white;
     font-weight: 400;
 }
